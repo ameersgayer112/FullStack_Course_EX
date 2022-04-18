@@ -1,0 +1,29 @@
+ #container {
+
+    background-color: gray;
+    box-shadow: 5px 5px 10px 2px black;
+    display: inline-block;
+  }
+
+  #first {
+      height: 50px;
+      width: 50px;
+      background-color: greenyellow;
+      display: inline-block;
+      border: 1px solid black;
+  }
+
+  #second {
+      height: 50px;
+      width: 50px;
+      background-color: orange;
+      display: inline-block;
+      border: 1px solid black;
+  }
+
+  .button
+  {
+      background-color: lightgreen;
+  }
+
+

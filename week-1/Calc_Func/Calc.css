@@ -1,0 +1,22 @@
+.right {
+    height: 50px;
+    width: 20px;
+    background-color: #e12f07;
+    display: inline-block;
+    
+    
+  }
+  
+  .left {
+    height: 50px;
+    width: calc(100% - 20px);
+    background-color: #dea09a;
+    display: inline-block;
+  
+  
+  }
+  
+  .container{
+    width: 100%;
+    display: flex;
+  }

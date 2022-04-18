@@ -1,0 +1,24 @@
+.title1{
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(0, 0, 128, 0.5);
+  color: #f1f1f1;
+  margin: 26% 2%;
+  width: 200px;
+  height: 100px;
+  top :-50%
+}
+
+.tilte2{
+  
+    position: absolute;
+    bottom: 0;
+    background: rgba(75, 18, 166, 0.331);
+    color: #f1f1f1;
+    margin: 26% 2%;
+    width: 20px;
+    padding: 4%;
+    top: -10%;
+    
+    
+  }

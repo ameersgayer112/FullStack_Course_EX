@@ -1,0 +1,76 @@
+/* #parent{
+ 
+    background-color: red;
+    display: inline-block;
+    padding: 10px;
+ 
+   
+  }
+
+  #child1{
+    width: 50px;
+    height: 50px;
+    background-color: blue; 
+    padding: 10px;
+   
+   
+  }
+
+  #child2{
+    width: 50px;
+    height: 50px;
+    background-color: green; 
+    padding: 10px;
+   
+    
+  } */
+
+   #parent{
+ 
+    background-color: red;
+    width: 300px;
+    height: 300px;  
+    position: relative;
+  }
+
+  #child1{
+    width: 100px;
+    height: 100px;
+    background-color: blue; 
+    position: absolute;
+  }
+
+  #child2{
+    width: 100px;
+    height: 100px;
+    background-color: green; 
+    position: absolute;
+    right: 0;
+    
+  }
+  #child3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow; 
+    position: absolute;
+    bottom: 0;
+  }
+  #child4{
+    width: 100px;
+    height: 100px;
+    background-color: purple; 
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  #child5{
+      width: 100px;
+      height: 100px;
+      background-color: white;
+      position: absolute;
+      right: 100px;
+      bottom: 100px;
+  }
+   
+    
+
