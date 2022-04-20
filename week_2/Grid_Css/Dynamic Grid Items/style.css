@@ -1,0 +1,21 @@
+#results-container{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#search-container {
+    display: grid;
+    font-size: large;
+    font-style: italic;
+    align-items: center;
+}
+
+.result{
+    display: grid;
+    height: 100px;
+    background-color: #16a085;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
