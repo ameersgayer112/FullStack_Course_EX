@@ -1,0 +1,77 @@
+{
+    "animals": [
+        {
+            "name":"dog",
+            "weighinKilo": "30kg",
+            "weighinTons": "0.030t0ns",
+            "envirment": ["house","streets","forest"],
+            "IsEndangered": false,
+            "KindFoods": [{
+                "name" :"meat",
+                "Delicious" :2,
+                "AnimalEatAlso":["cat","mouse","Wolves","lions"]
+            },
+            {
+                "name":" Canned",
+                "Delicious":3,
+                "AnimalEatAlso":["cat","mouse"]
+
+            },
+            {
+                "name": "Semi-Moist",
+                "Delicious":1,
+                "AnimalEatAlso":["cat","mouse","lions"]
+            },
+            {
+                "name": "Home Cooked",
+                "Delicious":5,
+                "AnimalEatAlso":["cat","wolves"]
+            }, 
+            {
+                "name": "Raw",
+                "Delicious":5,
+                "AnimalEatAlso":["lions","wolves"]
+
+            },
+            {
+                "name":" Fish",
+                "Delicious":4,
+                "AnimalEatAlso":["dog","mouse","wolves"]
+            }]
+        },
+        {
+            "name":"cat",
+            "weighinKilo": "15kg",
+            "weighinTons": "0.015t0ns",
+            "envirment": ["house","streets","forest"],
+            "IsEndangered": false,
+            "KindFoods": [{
+                "name" :"meat",
+                "Delicious" :5,
+                "AnimalEatAlso":["dog","mouse","Wolves","lions"]
+            },
+            {
+                "name":" Fish",
+                "Delicious":4,
+                "AnimalEatAlso":["dog","mouse","wolves"]
+
+            },
+            {
+                "name": "Eggs",
+                "Delicious":2,
+                "AnimalEatAlso":["mouse"]
+            },
+            {
+                "name": "Home Cooked",
+                "Delicious":5,
+                "AnimalEatAlso":["cat","mouse","dog"]
+            }, 
+            {
+                "name": "Cheese",
+                "Delicious":5,
+                "AnimalEatAlso":["lions","wolves"]
+
+            }]
+
+        }]
+}
